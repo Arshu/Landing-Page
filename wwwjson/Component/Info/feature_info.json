@@ -1,0 +1,23 @@
+{
+  "InfoFeatureTitle": "Title",
+  "InfoFeatureList": [
+    {
+      "FeatureHeading": "GETTING STARTED",
+      "FeatureInfo": "Lorem ipsum dolor sit amet.",
+      "FeatureDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.",
+      "FeatureAction": "Action"
+    },
+    {
+      "FeatureHeading": "GETTING STARTED",
+      "FeatureInfo": "Lorem ipsum dolor sit amet.",
+      "FeatureDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.",
+      "FeatureAction": "Action"
+    },
+    {
+      "FeatureHeading": "GETTING STARTED",
+      "FeatureInfo": "Lorem ipsum dolor sit amet.",
+      "FeatureDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.",
+      "FeatureAction": "Action"
+    }
+  ]
+}
