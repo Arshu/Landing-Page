@@ -18,7 +18,7 @@
 * Copy the Git Folder to the Root AppSite Folder
 
 ### Deploy using the published AppWeb Viewer:
-* [Download and run the latest AppWeb Viewer for Github Repository](https://github.com/Arshu/AssembleWebApps.git)
+* [Download and run AppWeb Viewer from Github Repository](https://github.com/Arshu/AssembleWebApps.git)
 
 ## Copyright and MIT License
 
