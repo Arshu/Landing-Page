@@ -12,13 +12,13 @@
 * Copy the Git Folder to the Root AppSite Folder
 
 ### Deploy using the Docker Image:
-* [Download and run the latest docker image](https://hub.docker.com/r/arshucs/appweb)
+* [Download and run the latest docker image](https://hub.docker.com/r/arshucs/appweb) : arshucs/appweb
 * Navigate to the Exposed Localhost Url https://localhost:8080
 * Sync the Git Repository if it is not available
 * Copy the Git Folder to the Root AppSite Folder
 
 ### Deploy using the published AppWeb Viewer:
-* [Download and run AppWeb Viewer from Github Repository](https://github.com/Arshu/AssembleWebApps.git)
+* [Download and run AppWeb Viewer from Github Repository](https://github.com/Arshu/AssembleWebApps.git) : Arshu/AssembleWebApps
 
 ## Copyright and MIT License
 
