@@ -1,0 +1,15 @@
+{
+  "InfoMainTitle": "Title",
+  "InfoMainList": [
+    {
+      "MainInfo": "Lorem ipsum dolor sit amet.",
+      "MainDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.",
+      "MainImageTitle": "connected world"
+    },
+    {
+      "MainInfo": "Lorem ipsum dolor sit amet.",
+      "MainDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.",
+      "MainImageTitle": "travel booking"
+    }
+  ]
+}
